@@ -1,6 +1,6 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: leim's personal blog
+author: GitHub Stupidbirdflyslow
+email: 1902387280@qq.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -37,8 +37,8 @@ texture:
 
 # Build settings
 # theme: texture
-remote_theme: thelehhman/texture
-theme: texture
+#remote_theme: thelehhman/texture
+#theme: texture
 
 
 plugins:
